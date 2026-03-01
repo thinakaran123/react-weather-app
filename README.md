@@ -2,6 +2,8 @@
 
 A modern, responsive weather forecasting application built with React 19 and Tailwind CSS. This app provides real-time weather updates with a sleek user interface, currently configured for seamless deployment via GitHub Pages.
 
+Live URL:- https://thinakaran123.github.io/react-weather-app/
+
 # Features
 - Real-time Weather Data: Integrated to fetch current conditions and forecasts.
 
